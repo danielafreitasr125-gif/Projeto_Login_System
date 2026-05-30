@@ -1,0 +1,9 @@
+Node.js permite usar js fora do navegador
+npm é um gerenciador de pacotes do node.js
+Docker cria um ambiente padronizado para rodar um sistema,atravez dele fazemos um gerenciamento do nosso banco de dados(seria a comida pronta)
+npm init -m gera o arquivo package.json
+npm install express cria as nossas rotas, com o servidor HTTP(endereço de sites)
+bcryptjs faz a criptografia das senhas (segurança)
+jsonwebtoken gera o token da sessao apos o login
+dotenv mongoose (conecta com o nosso banco de dados)
+save-dev nodemon (responsavel por reiniciar meu servidor automaticamente)
